@@ -13,14 +13,14 @@ function Cards() {
                     src="images/img-9.jpg"
                     text="Explore the hidden waterfall deep inside the Amzone JUngle"
                     label="Adventure"
-                    path="/services"
+                    path="/Services"
                     />
 
                    <CardItem 
                     src="images/img-2.jpg"
                     text="Explore the hidden waterfall deep inside the Amzone JUngle"
                     label="Luxury"
-                    path="/services"
+                    path="/Services"
                     />
 
                 </ul>
@@ -30,21 +30,21 @@ function Cards() {
                     src="images/img-3.jpg"
                     text="Experience Football on Top of the Himilayan Mountains"
                     label="Mystery"
-                    path="/services"
+                    path="/Services"
                     />
 
 <CardItem 
                     src="images/img-4.jpg"
                     text="Ride through the Sahara Desert on a guided camel tour"
                     label="Adventure"
-                    path="/services"
+                    path="/Services"
                     />
 
 <CardItem 
                     src="images/img-8.jpg"
                     text="Explore the hidden waterfall deep inside the Amzone JUngle"
                     label="Adrenaline"
-                    path="/services"
+                    path="/Services"
                     />
 
                 </ul>
