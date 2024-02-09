@@ -30,40 +30,40 @@ function Footer() {
           <div class='footer-link-items'>
             <h2>About Us</h2>
             <Link to='/Sign-up'>How it works</Link>
-            <Link to='/Travels'>Testimonials</Link>
-            <Link to='/Travels'>Careers</Link>
-            <Link to='/Travels'>Investors</Link>
-            <Link to='/Travels'>Terms of Service</Link>
+            <Link to='/Travels/'>Testimonials</Link>
+            <Link to='/Travels/'>Careers</Link>
+            <Link to='/Travels/'>Investors</Link>
+            <Link to='/Travels/'>Terms of Service</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Contact Us</h2>
-            <Link to='/Travels'>Contact</Link>
-            <Link to='/Travels'>Support</Link>
-            <Link to='/Travels'>Destinations</Link>
-            <Link to='/Travels'>Sponsorships</Link>
+            <Link to='/Travels/'>Contact</Link>
+            <Link to='/Travels/'>Support</Link>
+            <Link to='/Travels/'>Destinations</Link>
+            <Link to='/Travels/'>Sponsorships</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Videos</h2>
-            <Link to='/Travels'>Submit Video</Link>
-            <Link to='/Travels'>Ambassadors</Link>
-            <Link to='/Travels'>Agency</Link>
-            <Link to='/Travels'>Influencer</Link>
+            <Link to='/Travels/'>Submit Video</Link>
+            <Link to='/Travels/'>Ambassadors</Link>
+            <Link to='/Travels/'>Agency</Link>
+            <Link to='/Travels/'>Influencer</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Social Media</h2>
-            <Link to='/Travels'>Instagram</Link>
-            <Link to='/Travels'>Facebook</Link>
-            <Link to='/Travels'>Youtube</Link>
-            <Link to='/Travels'>Twitter</Link>
+            <Link to='/Travels/'>Instagram</Link>
+            <Link to='/Travels/'>Facebook</Link>
+            <Link to='/Travels/'>Youtube</Link>
+            <Link to='/Travels/'>Twitter</Link>
           </div>
         </div>
       </div>
       <section class='social-media'>
         <div class='social-media-wrap'>
           <div class='footer-logo'>
-            <Link to='/Travels' className='social-logo'>
+            <Link to='/Travels/' className='social-logo'>
               TRVL
               <i class='fab fa-typo3' />
             </Link>
@@ -72,7 +72,7 @@ function Footer() {
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
-              to='/Travels'
+              to='/Travels/'
               target='_blank'
               aria-label='Facebook'
             >
@@ -80,7 +80,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link instagram'
-              to='/Travels'
+              to='/Travels/'
               target='_blank'
               aria-label='Instagram'
             >
@@ -88,7 +88,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link youtube'
-              to='/Travels'
+              to='/Travels/'
               target='_blank'
               aria-label='Youtube'
             >
@@ -96,7 +96,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link twitter'
-              to='/Travels'
+              to='/Travels/'
               target='_blank'
               aria-label='Twitter'
             >
@@ -104,7 +104,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link twitter'
-              to='/Travels'
+              to='/Travels/'
               target='_blank'
               aria-label='LinkedIn'
             >
